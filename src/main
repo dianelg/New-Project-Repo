@@ -3,3 +3,6 @@ Imports System.Data.OleDb'
 
 Public Class Form1
 Dim con As New OledDb.OleDbConnection
+
+
+#Connecting MS Access to Visual Studio
